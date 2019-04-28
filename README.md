@@ -1,2 +1,2 @@
 # encrypted decrypted
-using PHP
+using PHP, openssl_encrypt/openssl_decrypt method, singe DES.
